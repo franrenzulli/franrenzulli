@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi, I'm Franco! 👋🏻
 
-<!--
-**franrenzulli/franrenzulli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 A little about me...
+I'm a 19-year-old developer based in Argentina, and I'm passionate about IT since I'm a kid. I'm currently learning Backend Development and Pentesting.
+🎯 My next goal is learning React to complete the MERN Stack 
 
-Here are some ideas to get you started:
+## 🛠 Skills
+**Frontend Development:** `HTML` `CSS` `JavaScript` 
+**Backend Development:** `Node.js` `MongoDB` `MySQL` `Express`
+**Version Control:** `Git`
+**UX/UI Design:** `Figma`
+**Video Editing:** `Sony Vegas Pro` `WonderShare Filmora`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Languages
+🧉 **Spanish** `Native`
+🍵 **English** `C1 (certified)`
+🍝 **Italian** `B1 (non-certified)`
+🍣 **Japanese** `A1 (non-certified)`
+
+## 🎭 Pronouns
+`He` `Him`
+
+## 💼 Projects
+I will be uploading my first full-stack webapp soon... 
+
+## 📫 How to reach me:
+🔰 For a quick response, DM me on [Instagram](https://www.instagram.com/franrenzulli/)) or [LinkedIn](https://www.linkedin.com/in/francorenzullidev/)
