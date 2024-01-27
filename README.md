@@ -23,7 +23,7 @@ I'm a 19-year-old developer based in Argentina, and I'm passionate about IT sinc
 `He` `Him`
 
 ## 💼 Projects
-I will be uploading my first full-stack webapp soon... 
+📦 I will be uploading my first full-stack webapp soon... 
 
 ## 📫 How to reach me:
 🔰 For a quick response, DM me on [Instagram](https://www.instagram.com/franrenzulli/) or [LinkedIn](https://www.linkedin.com/in/francorenzullidev/)
