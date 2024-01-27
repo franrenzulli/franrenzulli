@@ -4,7 +4,7 @@
 
 ## 🚀 A little about me...
 I'm a 19-year-old developer based in Argentina, and I'm passionate about IT since I'm a kid. I'm currently learning Backend Development and Pentesting.
-🎯 My next goal is learning React to complete the MERN Stack 
+🎯 My next goal is learning React to complete the MERN Stack.
 
 ## 🛠 Skills
 **Frontend Development:** `HTML` `CSS` `JavaScript`<br> 
